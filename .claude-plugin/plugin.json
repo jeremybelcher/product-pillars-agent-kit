@@ -1,0 +1,12 @@
+{
+  "name": "product-pillars",
+  "displayName": "Product Pillars",
+  "version": "1.0.0",
+  "description": "Draw and edit flowcharts with the person you're working with, on a live canvas that exports Mermaid. Adds the Product Pillars MCP server and a skill that knows when and how to use it.",
+  "author": { "name": "Robot Heart Studios", "url": "https://robotheart.studio" },
+  "homepage": "https://www.productpillars.com",
+  "documentationUrl": "https://www.productpillars.com/agents",
+  "privacyPolicyUrl": "https://www.productpillars.com/privacy",
+  "termsOfServiceUrl": "https://www.productpillars.com/terms",
+  "keywords": ["flowchart", "diagram", "mermaid", "user-flow", "process-map", "mcp"]
+}

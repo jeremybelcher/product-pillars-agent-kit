@@ -1,0 +1,12 @@
+{
+  "name": "product-pillars",
+  "description": "Product Pillars for Claude Code: flowcharts people and agents edit together on one live canvas.",
+  "owner": { "name": "Robot Heart Studios" },
+  "plugins": [
+    {
+      "name": "product-pillars",
+      "source": ".",
+      "description": "The Product Pillars MCP server plus a skill for drawing and editing flowcharts with the person you're working with."
+    }
+  ]
+}

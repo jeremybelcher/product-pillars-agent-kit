@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "product-pillars": {
+      "type": "http",
+      "url": "https://www.productpillars.com/api/mcp"
+    }
+  }
+}

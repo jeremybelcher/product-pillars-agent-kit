@@ -1,0 +1,19 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.productpillars/product-pillars",
+  "title": "Product Pillars",
+  "description": "Flowcharts that people and agents edit together on one live canvas, exported as Mermaid.",
+  "version": "1.4.0",
+  "websiteUrl": "https://www.productpillars.com",
+  "repository": {
+    "url": "https://github.com/jeremybelcher/product-pillars-agent-kit",
+    "source": "github"
+  },
+  "icons": [
+    { "src": "https://www.productpillars.com/icon.svg", "mimeType": "image/svg+xml", "sizes": ["any"] },
+    { "src": "https://www.productpillars.com/icon-512.png", "mimeType": "image/png", "sizes": ["512x512"] }
+  ],
+  "remotes": [
+    { "type": "streamable-http", "url": "https://www.productpillars.com/api/mcp" }
+  ]
+}
